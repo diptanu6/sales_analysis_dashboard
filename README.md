@@ -80,5 +80,5 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 
 ---
 
-## 📬 Contact
+
  *Feel free to fork or star this repo if you found it useful!*
